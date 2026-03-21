@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F1p2Q1pp%2F2bp1p2%2F6P1%2FP5r1%2F5p2%2F7b%2F3RRK2%20w%20-%20-%200%2037&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2Fpp3pbp%2F1q1R1np1%2F4p1B1%2F1QP5%2F2P4P%2FPP3P1P%2FRN4K1%20b%20-%20-%200%2016&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [7tYuf](https://lichess.org/training/7tYuf), rated `1464`.
-The game is `m209mm (1884)` vs `hussainasharaff (1849)` at `10+0` time control,
-with themes `middlegame, short, advantage, fork`. You can [view the full game](https://lichess.org/jgX3zORz),
-and the first solution move is `e7e6`.
+It is `Black to move` in puzzle [8FAyQ](https://lichess.org/training/8FAyQ), rated `1431`.
+The game is `Tashok (1581)` vs `MOANNAD (1602)` at `5+3` time control,
+with themes `crushing, fork, long, middlegame`. You can [view the full game](https://lichess.org/tGxw2Xgm),
+and the first solution move is `b6b4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
