@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6r1%2Fp4p2%2F2B2k2%2F5p2%2F2pPp3%2F7r%2FPP6%2F2R1RK2%20b%20-%20-%203%2033&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2F5ppp%2FR2p4%2F4p1b1%2F8%2F1Q2P3%2F4q1PP%2F5RK1%20w%20-%20-%204%2025&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [ZviZp](https://lichess.org/training/ZviZp), rated `1621`.
-The game is `balagapich (2189)` vs `mcatalan_37 (2211)` at `10+0` time control,
-with themes `exposedKing, endgame, epauletteMate, long, mateIn3`. You can [view the full game](https://lichess.org/ONdJWHmh),
-and the first solution move is `h3f3`.
+It is `White to move` in puzzle [TeM5H](https://lichess.org/training/TeM5H), rated `1483`.
+The game is `LetzFetz (2202)` vs `Kostraskills (2221)` at `3+0` time control,
+with themes `veryLong, endgame, sacrifice, mateIn4`. You can [view the full game](https://lichess.org/keiNUDpS),
+and the first solution move is `b3f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
