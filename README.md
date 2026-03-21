@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F4bpp1%2F1q2p2p%2F1PpnB3%2F3P1PP1%2F4PBK1%2F4Q3%2F3R4%20b%20-%20-%204%2030&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fpp4p1%2F2pbpn1p%2F3p3q%2F3P4%2F2NB1Q1P%2FPPP2PP1%2F4R1K1%20w%20-%20-%208%2021&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [gX6cb](https://lichess.org/training/gX6cb), rated `1435`.
-The game is `darkghoul (2810)` vs `pifion (2573)` at `3+0` time control,
-with themes `short, masterVsMaster, advantage, fork, master, middlegame`. You can [view the full game](https://lichess.org/DnGq3Orp),
-and the first solution move is `d5c3`.
+It is `White to move` in puzzle [gtlHA](https://lichess.org/training/gtlHA), rated `1553`.
+The game is `Lifeofajamaican-com (1924)` vs `phylov (1921)` at `5+0` time control,
+with themes `middlegame, long, fork, advantage`. You can [view the full game](https://lichess.org/UrUKPc5j),
+and the first solution move is `f3h5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
