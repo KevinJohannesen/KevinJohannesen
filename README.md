@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fpp4p1%2F2pbpn1p%2F3p3q%2F3P4%2F2NB1Q1P%2FPPP2PP1%2F4R1K1%20w%20-%20-%208%2021&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1bqk2r%2Fp1p1npQ1%2F1p1p2np%2F3P4%2F2P2P2%2FP1N5%2F1P4PP%2FR1B1KB1R%20b%20KQkq%20-%200%2012&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [gtlHA](https://lichess.org/training/gtlHA), rated `1553`.
-The game is `Lifeofajamaican-com (1924)` vs `phylov (1921)` at `5+0` time control,
-with themes `middlegame, long, fork, advantage`. You can [view the full game](https://lichess.org/UrUKPc5j),
-and the first solution move is `f3h5`.
+It is `Black to move` in puzzle [J6RT0](https://lichess.org/training/J6RT0), rated `1450`.
+The game is `Simple_DimpleVS_Pop (1895)` vs `peppeciclista60 (1851)` at `10+0` time control,
+with themes `opening, trappedPiece, short, crushing`. You can [view the full game](https://lichess.org/BtxtttT8),
+and the first solution move is `e7f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
