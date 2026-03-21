@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5b1r%2F2p1kppp%2Fp5n1%2Fq2b4%2F1Q4P1%2F3PP2B%2FP2NK2P%2F1R5R%20b%20-%20-%207%2021&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r7%2F2R5%2F3pBpk1%2F2b1p1p1%2F4K1P1%2F8%2F8%2F8%20w%20-%20-%202%2043&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [KnfCO](https://lichess.org/training/KnfCO), rated `1356`.
-The game is `SM_Alibeyli (1713)` vs `CinToprak (1673)` at `15+15` time control,
-with themes `middlegame, short, advantage`. You can [view the full game](https://lichess.org/5zbSRCBk),
-and the first solution move is `a5b4`.
+It is `White to move` in puzzle [XQfGk](https://lichess.org/training/XQfGk), rated `1536`.
+The game is `Biff71 (1702)` vs `Cellardoor36 (1713)` at `5+0` time control,
+with themes `short, operaMate, endgame, mateIn2`. You can [view the full game](https://lichess.org/o1leRsJg),
+and the first solution move is `e6f5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
