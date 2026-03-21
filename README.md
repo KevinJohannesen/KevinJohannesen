@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k1rb1N%2Fpp4pp%2F2p5%2F8%2F4n2Q%2F1KPp4%2FPP3P1P%2FR1B2q2%20w%20-%20-%202%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2Fp4q1p%2F1p4p1%2F8%2FQ4R2%2F2P5%2FP3r1PP%2F6K1%20w%20-%20-%201%2035&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [rqJ5C](https://lichess.org/training/rqJ5C), rated `1274`.
-The game is `Tavygelp (1640)` vs `kabanoid (1687)` at `10+0` time control,
-with themes `middlegame, crushing, long, discoveredAttack`. You can [view the full game](https://lichess.org/7p6tyMwK),
-and the first solution move is `h4g4`.
+It is `White to move` in puzzle [vey5Y](https://lichess.org/training/vey5Y), rated `1359`.
+The game is `CG1976 (1507)` vs `gooman422422 (1578)` at `5+3` time control,
+with themes `endgame, crushing, attraction, fork, long`. You can [view the full game](https://lichess.org/b57W1aAp),
+and the first solution move is `f4f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
