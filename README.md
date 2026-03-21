@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4rk1%2F6pp%2Fp3p3%2F3p2R1%2F5qQ1%2F6NP%2FP5PK%2F8%20w%20-%20-%206%2029&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r5rk%2Fppp2p1p%2F3b1pnq%2F3p4%2F3P3N%2F2P2NPP%2FPP3P1K%2FR2QR3%20b%20-%20-%206%2018&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [S3afQ](https://lichess.org/training/S3afQ), rated `1600`.
-The game is `vvdzhirg (1818)` vs `Mamagawoi (1737)` at `10+0` time control,
-with themes `deflection, endgame, crushing, long`. You can [view the full game](https://lichess.org/y1Y7Bpp5),
-and the first solution move is `g5g7`.
+It is `Black to move` in puzzle [dclEZ](https://lichess.org/training/dclEZ), rated `1499`.
+The game is `Anthonyng (1857)` vs `thomas0044 (1803)` at `15+10` time control,
+with themes `pin, short, advantage, middlegame`. You can [view the full game](https://lichess.org/EoxztARb),
+and the first solution move is `g6h4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
