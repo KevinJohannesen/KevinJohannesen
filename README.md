@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2Fp1PR3p%2F5ppk%2F8%2F1p3P2%2F1P3RP1%2FP1r4r%2F6K1%20w%20-%20-%200%2036&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4r3%2Fk1p4Q%2Fpp1R4%2F8%2F8%2F6PP%2FPPP2q2%2F2K5%20b%20-%20-%200%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [4bhkR](https://lichess.org/training/4bhkR), rated `1597`.
-The game is `maloxis (1612)` vs `Jubb (1643)` at `6+3` time control,
-with themes `deflection, endgame, advancedPawn, short, crushing, promotion`. You can [view the full game](https://lichess.org/alf3VLFE),
-and the first solution move is `c7c8q`.
+It is `Black to move` in puzzle [lQwS8](https://lichess.org/training/lQwS8), rated `1506`.
+The game is `HoldMyQueen21 (1604)` vs `Korfez41keremasallah (1593)` at `5+3` time control,
+with themes `deflection, endgame, long, mateIn3, backRankMate`. You can [view the full game](https://lichess.org/g0z9Ggy0),
+and the first solution move is `e8e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
