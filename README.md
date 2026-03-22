@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7N%2FR1n5%2F2p3p1%2F2kp4%2FP3b3%2F8%2F5P2%2F2K5%20b%20-%20-%202%2045&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=4k3%2F1R6%2F3PP3%2F6p1%2F7p%2F5K1P%2F1p4P1%2F1r6%20b%20-%20-%200%2056&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [rsdGN](https://lichess.org/training/rsdGN), rated `1550`.
-The game is `maestro_001 (2325)` vs `Goi_Manne (2361)` at `3+0` time control,
-with themes `endgame, master, short, advantage, trappedPiece`. You can [view the full game](https://lichess.org/tKX0dYpJ),
-and the first solution move is `c5b6`.
+It is `Black to move` in puzzle [jb6RU](https://lichess.org/training/jb6RU), rated `1410`.
+The game is `Shapingisa (2028)` vs `ogascomax (2047)` at `3+0` time control,
+with themes `clearance, endgame, advancedPawn, crushing, rookEndgame, long, promotion`. You can [view the full game](https://lichess.org/EwvJ4m4b),
+and the first solution move is `b1f1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
