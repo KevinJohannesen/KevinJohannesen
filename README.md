@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F5ppk%2FpN2b2p%2FP5q1%2F1P2Q3%2F2Pr3P%2F5PP1%2F2R3K1%20b%20-%20-%206%2029&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fppp2pp1%2F2b2qnp%2F5N1Q%2F2P5%2F1P6%2FP1Br2PP%2FR4RK1%20w%20-%20-%201%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Ixmnz](https://lichess.org/training/Ixmnz), rated `1523`.
-The game is `Depth25 (2308)` vs `Celin_001 (1996)` at `10+0` time control,
-with themes `endgame, short, advantage, pin, defensiveMove`. You can [view the full game](https://lichess.org/xYM4ardM),
-and the first solution move is `e6f5`.
+It is `White to move` in puzzle [56NPB](https://lichess.org/training/56NPB), rated `1535`.
+The game is `Danielcontrer (1865)` vs `Tavoga (1872)` at `3+2` time control,
+with themes `middlegame, crushing, long, kingsideAttack, discoveredAttack`. You can [view the full game](https://lichess.org/sUY9kHmp),
+and the first solution move is `f5h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
