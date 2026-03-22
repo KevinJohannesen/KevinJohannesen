@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F4Q3%2F4p1p1%2F6qp%2F7k%2F4nP1P%2F6P1%2F6K1%20w%20-%20-%208%2051&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k5%2F8%2FKP2p3%2F8%2F4p3%2F8%2F8%2F8%20w%20-%20-%205%2069&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [kSL3Z](https://lichess.org/training/kSL3Z), rated `1466`.
-The game is `marcoeangeli (1793)` vs `subratiitkgp (1783)` at `10+5` time control,
-with themes `deflection, endgame, short, crushing, attraction, pin`. You can [view the full game](https://lichess.org/VZ7jlP6B),
-and the first solution move is `g2g3`.
+It is `White to move` in puzzle [P75Xv](https://lichess.org/training/P75Xv), rated `1422`.
+The game is `jeanroqueraltique (2125)` vs `RoadtoSGM (2041)` at `10+0` time control,
+with themes `endgame, advancedPawn, crushing, long, promotion, pawnEndgame`. You can [view the full game](https://lichess.org/Z9WEph4M),
+and the first solution move is `a6a7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
