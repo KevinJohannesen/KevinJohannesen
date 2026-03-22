@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F8%2F5KpP%2F1p6%2F1k6%2F8%2F8%20w%20-%20-%200%2051&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5R2%2F1pp3k1%2Fp7%2F6qp%2F4bR2%2F2P4P%2FPP4P1%2F7K%20w%20-%20-%207%2049&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [C7vbF](https://lichess.org/training/C7vbF), rated `1325`.
-The game is `auditoriabudva (2228)` vs `mephisto42 (2219)` at `3+0` time control,
-with themes `endgame, advancedPawn, crushing, long, promotion, pawnEndgame`. You can [view the full game](https://lichess.org/nduWgWq2),
-and the first solution move is `h5h6`.
+It is `White to move` in puzzle [KT8TF](https://lichess.org/training/KT8TF), rated `1501`.
+The game is `Yaroslav_Kutyrkin (1985)` vs `AlekseyShlykov (1514)` at `5+3` time control,
+with themes `exposedKing, endgame, advantage, long`. You can [view the full game](https://lichess.org/ssmWcWs3),
+and the first solution move is `f4f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
