@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r5rk%2Fpp1b1q1p%2F2pp3B%2F5Pn1%2F2PbP1NP%2F3P4%2FPP4B1%2F1R1Q1R1K%20b%20-%20-%200%2022&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=7k%2F1p2q1p1%2F2b3Rp%2Fp4r2%2FP7%2F1B3PQ1%2F6KP%2F8%20w%20-%20-%200%2036&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [kjvLi](https://lichess.org/training/kjvLi), rated `1562`.
-The game is `glubglubglub (2089)` vs `Steveeeeeeeeeee (2057)` at `2+1` time control,
-with themes `middlegame, advantage, long, capturingDefender, pin`. You can [view the full game](https://lichess.org/fc1dCdnw),
-and the first solution move is `f7h5`.
+It is `White to move` in puzzle [uLkDB](https://lichess.org/training/uLkDB), rated `1575`.
+The game is `Marcus0216 (2116)` vs `unblvble00 (2130)` at `3+0` time control,
+with themes `clearance, short, sacrifice, endgame, mateIn2`. You can [view the full game](https://lichess.org/TmdMFlXw),
+and the first solution move is `g6h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
