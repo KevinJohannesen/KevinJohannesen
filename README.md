@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5R2%2F1pp3k1%2Fp7%2F6qp%2F4bR2%2F2P4P%2FPP4P1%2F7K%20w%20-%20-%207%2049&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r2k1%2F1p4pp%2Fpq6%2F4R3%2F2p2r2%2F1P5Q%2FP1P2PPP%2F5RK1%20b%20-%20-%200%2022&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [KT8TF](https://lichess.org/training/KT8TF), rated `1501`.
-The game is `Yaroslav_Kutyrkin (1985)` vs `AlekseyShlykov (1514)` at `5+3` time control,
-with themes `exposedKing, endgame, advantage, long`. You can [view the full game](https://lichess.org/ssmWcWs3),
-and the first solution move is `f4f7`.
+It is `Black to move` in puzzle [75D2E](https://lichess.org/training/75D2E), rated `1485`.
+The game is `Ayman78 (1684)` vs `Basharov (1800)` at `16+16` time control,
+with themes `veryLong, endgame, sacrifice, mateIn4`. You can [view the full game](https://lichess.org/vMi8ZhKq),
+and the first solution move is `b6f2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
