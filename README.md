@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bkqb1r%2F3p4%2Fp1p1ppNp%2F7Q%2F8%2F8%2FPPP2PPP%2FRN3RK1%20w%20-%20-%202%2015&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r1k2r%2F1p3ppp%2Fp1q1pb2%2F3N4%2F3p1B2%2FP4Q2%2F1Pb1RPPP%2F2KR4%20w%20k%20-%200%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [2NdmV](https://lichess.org/training/2NdmV), rated `1413`.
-The game is `razor-toothed (1980)` vs `Lokker_02 (2063)` at `10+0` time control,
-with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/2z9lSlwb),
-and the first solution move is `h5a5`.
+It is `White to move` in puzzle [kXx3r](https://lichess.org/training/kXx3r), rated `1377`.
+The game is `Gustavhp (1591)` vs `EddineBACH (1700)` at `5+0` time control,
+with themes `middlegame, advantage, long, discoveredAttack`. You can [view the full game](https://lichess.org/dlYzAdyi),
+and the first solution move is `d5f6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
