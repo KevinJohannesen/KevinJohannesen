@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r6r%2Fp2nk3%2Fbpppp3%2F1q3PNB%2F3P3P%2F2P2Q2%2FPP3P2%2FR3K1NR%20b%20KQ%20-%200%2018&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=br2r1k1%2F3n1p1p%2F1p4p1%2F1B6%2FPP1R1Bn1%2F2N3Q1%2F5pPP%2F4RK2%20b%20-%20-%200%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [bkwBh](https://lichess.org/training/bkwBh), rated `1316`.
-The game is `mostapha009 (1791)` vs `ONCEL_P (1767)` at `10+0` time control,
-with themes `middlegame, short, advantage, skewer`. You can [view the full game](https://lichess.org/mqJd3DxS),
-and the first solution move is `b5f1`.
+It is `Black to move` in puzzle [ss9Kw](https://lichess.org/training/ss9Kw), rated `1329`.
+The game is `Pepeoutai (2320)` vs `ich2 (2448)` at `3+2` time control,
+with themes `oneMove, mateIn1, master, middlegame`. You can [view the full game](https://lichess.org/1y5mgp6A),
+and the first solution move is `e8e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
