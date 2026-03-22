@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F5rpp%2F4bp1B%2F2p1p2P%2F8%2F2q2P2%2F1R3P2%2F1K4R1%20w%20-%20-%200%2033&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2Fp2q2p1%2F3rR1Bp%2F2p2p2%2F1pP2P2%2F1P3Q2%2FP5PP%2F4R2K%20b%20-%20-%200%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Gj5aR](https://lichess.org/training/Gj5aR), rated `1314`.
-The game is `Srijan12345 (1572)` vs `CKOTOBOT (1570)` at `3+0` time control,
-with themes `endgame, deflection, veryLong, mateIn4, pin`. You can [view the full game](https://lichess.org/I5kvuqxB),
-and the first solution move is `b2b8`.
+It is `Black to move` in puzzle [v6QgN](https://lichess.org/training/v6QgN), rated `1360`.
+The game is `Daishinkanelangel (1637)` vs `HIEEEN (1637)` at `15+15` time control,
+with themes `middlegame, long, crushing`. You can [view the full game](https://lichess.org/Jivo9m6d),
+and the first solution move is `d6e6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
