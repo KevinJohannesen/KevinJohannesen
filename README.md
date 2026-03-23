@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b1r1k1%2F5p2%2Fp1p2p1p%2Fq2p4%2F2P5%2Fb4N1P%2F1PPQ1PP1%2F1NKR3R%20b%20-%20-%203%2017&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=rnbq1b1r%2Fpp2n1p1%2F3p1k1p%2F2pQN3%2F4PB2%2F2N5%2FPP3PPP%2FR3K2R%20w%20KQ%20-%206%2011&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [rwMul](https://lichess.org/training/rwMul), rated `1604`.
-The game is `Paralotchik (1812)` vs `mesopotoso (1781)` at `10+0` time control,
-with themes `middlegame, short, queensideAttack, crushing, attraction, sacrifice`. You can [view the full game](https://lichess.org/0h5iKq8y),
-and the first solution move is `a3b2`.
+It is `White to move` in puzzle [sPJAP](https://lichess.org/training/sPJAP), rated `1436`.
+The game is `synsy (1609)` vs `TataMalahova (1641)` at `10+0` time control,
+with themes `oneMove, mateIn1, middlegame`. You can [view the full game](https://lichess.org/iJ4hKMxl),
+and the first solution move is `d5f7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
