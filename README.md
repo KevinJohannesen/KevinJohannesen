@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=4r1k1%2Fp4ppp%2F8%2F1p6%2F3Q4%2FN5P1%2FqBP2P1n%2F3KR3%20b%20-%20-%202%2026&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F5rp1%2FRPp4p%2F5r2%2FP7%2F8%2F4b2P%2F5RK1%20w%20-%20-%201%2040&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [vmBMZ](https://lichess.org/training/vmBMZ), rated `1528`.
-The game is `vodkadrinker (2220)` vs `PRAVEEN1890 (2137)` at `3+0` time control,
-with themes `middlegame, crushing, attraction, fork, long`. You can [view the full game](https://lichess.org/csmt6C38),
-and the first solution move is `e8e1`.
+It is `White to move` in puzzle [73t6P](https://lichess.org/training/73t6P), rated `1431`.
+The game is `Logmann72 (2476)` vs `Schacher100 (2276)` at `3+0` time control,
+with themes `endgame, advancedPawn, master, advantage, long`. You can [view the full game](https://lichess.org/5dsdGGlT),
+and the first solution move is `a6a8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
