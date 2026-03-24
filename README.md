@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bq1r2%2Fpp2b3%2F5kpP%2Fn4pN1%2F3P4%2F1QP5%2FP4P2%2FR1B1K2R%20w%20KQ%20-%202%2019&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2FR5p1%2F4k2p%2FNr5P%2F2p5%2F5PP1%2F6K1%20b%20-%20-%200%2045&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [LuuY8](https://lichess.org/training/LuuY8), rated `1542`.
-The game is `dkb12085 (2401)` vs `Heisenberg3 (2286)` at `3+0` time control,
-with themes `oneMove, mateIn1, master, middlegame`. You can [view the full game](https://lichess.org/HMGVnHo7),
-and the first solution move is `g5h7`.
+It is `Black to move` in puzzle [Oqzcr](https://lichess.org/training/Oqzcr), rated `1558`.
+The game is `AndreasPurbo (2196)` vs `Doker2006 (2028)` at `5+3` time control,
+with themes `veryLong, endgame, advancedPawn, crushing, promotion`. You can [view the full game](https://lichess.org/hofOWavI),
+and the first solution move is `c3c2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
