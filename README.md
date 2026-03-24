@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F3n4%2Frk2p1R1%2F2p1P3%2F6p1%2FP5Kp%2F1B6%2F8%20w%20-%20-%200%2045&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5b2%2F2k2Pp1%2F2N3Bp%2F3K3P%2Fn7%2F8%2F8%20b%20-%20-%201%2061&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [BamIx](https://lichess.org/training/BamIx), rated `1345`.
-The game is `kamblefy (2519)` vs `The_Pursuer (2624)` at `3+2` time control,
-with themes `advantage, short, endgame`. You can [view the full game](https://lichess.org/D92GbFvf),
-and the first solution move is `g6e6`.
+It is `Black to move` in puzzle [HkOaL](https://lichess.org/training/HkOaL), rated `1503`.
+The game is `Whynot72 (2180)` vs `Xilog (2141)` at `2+1` time control,
+with themes `deflection, endgame, master, short, advantage`. You can [view the full game](https://lichess.org/burUVZWg),
+and the first solution move is `a3b5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
