@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2F1P4p1%2F7p%2F3P4%2F4P2r%2F4RPqP%2F2r3P1%2F1R3Q1K%20b%20-%20-%200%2036&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fppqn1ppp%2F2pbpnN1%2F8%2F2PP4%2F2N1B3%2FPP2BPPP%2FR2Q1RK1%20b%20kq%20-%200%2013&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [BfClt](https://lichess.org/training/BfClt), rated `1357`.
-The game is `Mr512 (1545)` vs `chasealmond1 (1666)` at `5+3` time control,
-with themes `short, endgame, mateIn2`. You can [view the full game](https://lichess.org/X9HnrJTs),
-and the first solution move is `h4h3`.
+It is `Black to move` in puzzle [3GuXy](https://lichess.org/training/3GuXy), rated `1422`.
+The game is `Tyrann (2503)` vs `Zhalmakhanov_R (2671)` at `3+0` time control,
+with themes `short, masterVsMaster, crushing, intermezzo, master, middlegame`. You can [view the full game](https://lichess.org/SxSiSVyY),
+and the first solution move is `d6h2`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
