@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1bk2n1%2Fpppp2p1%2F8%2F2b2N2%2F8%2F2NP1B2%2FPPPB1PPq%2FR2QK3%20b%20Q%20-%200%2014&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b1r1k1%2Fpp4pp%2F3q1p2%2F3np2Q%2F2P5%2F4R3%2FPP3PPP%2F4R1K1%20w%20-%20-%200%2023&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [JALoV](https://lichess.org/training/JALoV), rated `1356`.
-The game is `salonce (1584)` vs `rajanpq (1607)` at `5+0` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/TPIfrzq7),
-and the first solution move is `h2g1`.
+It is `White to move` in puzzle [kJMsA](https://lichess.org/training/kJMsA), rated `1576`.
+The game is `jason_nyc (2148)` vs `ajakaj (1990)` at `10+0` time control,
+with themes `middlegame, crushing, long, kingsideAttack, hangingPiece`. You can [view the full game](https://lichess.org/7B3sLGoX),
+and the first solution move is `h5e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
