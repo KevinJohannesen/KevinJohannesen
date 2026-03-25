@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r3k2r%2Fpp3pbp%2F4p1p1%2F2pP1P2%2F2n2q2%2F2N2N1P%2FPP3K2%2FR2Q1B1R%20b%20kq%20-%201%2017&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2r2%2Fpp1n2kp%2F5pp1%2F6q1%2F1P3n2%2FP6Q%2FBB3PPP%2F4R1K1%20w%20-%20-%200%2031&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [Z0uf9](https://lichess.org/training/Z0uf9), rated `1610`.
-The game is `Zhou_Johnny (2002)` vs `AlcianBlue (2046)` at `15+15` time control,
-with themes `middlegame, short, crushing`. You can [view the full game](https://lichess.org/U3ubAP0d),
-and the first solution move is `g7d4`.
+It is `White to move` in puzzle [Xairg](https://lichess.org/training/Xairg), rated `1321`.
+The game is `zizou225 (1958)` vs `DkTeach (1973)` at `10+0` time control,
+with themes `middlegame, long, mateIn3`. You can [view the full game](https://lichess.org/G9VoDKoi),
+and the first solution move is `e1e7`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
