@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5r1k%2F5ppp%2F8%2F5N2%2F1p4P1%2F1Pn4P%2FpBP2P2%2FK2rR3%20w%20-%20-%203%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F4kp2%2F7K%2F8%2F7P%2F3R1P2%2F3p2r1%2F8%20b%20-%20-%202%2070&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [DaYU6](https://lichess.org/training/DaYU6), rated `1286`.
-The game is `Aqlkata (1754)` vs `antoniotiret (1767)` at `5+0` time control,
-with themes `fork, long, advantage, endgame`. You can [view the full game](https://lichess.org/FOvr7flp),
-and the first solution move is `e1d1`.
+It is `Black to move` in puzzle [OCs7T](https://lichess.org/training/OCs7T), rated `1476`.
+The game is `Gambit37 (2172)` vs `king_monkei (2201)` at `10+5` time control,
+with themes `endgame, crushing, rookEndgame, long`. You can [view the full game](https://lichess.org/Ise7vcdY),
+and the first solution move is `g2g6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
