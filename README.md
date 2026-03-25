@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r1b2r2%2Fpp1n2kp%2F5pp1%2F6q1%2F1P3n2%2FP6Q%2FBB3PPP%2F4R1K1%20w%20-%20-%200%2031&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r7%2FP4pk1%2FRrq1p3%2F2Npn1p1%2F1Q1P4%2F8%2F6PP%2FR5K1%20b%20-%20-%200%2033&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [Xairg](https://lichess.org/training/Xairg), rated `1321`.
-The game is `zizou225 (1958)` vs `DkTeach (1973)` at `10+0` time control,
-with themes `middlegame, long, mateIn3`. You can [view the full game](https://lichess.org/G9VoDKoi),
-and the first solution move is `e1e7`.
+It is `Black to move` in puzzle [bPpW9](https://lichess.org/training/bPpW9), rated `1406`.
+The game is `Kvartnik_Yuriy (1893)` vs `SicilianaClasica (2033)` at `30+0` time control,
+with themes `crushing, short, middlegame`. You can [view the full game](https://lichess.org/13lpJ5tw),
+and the first solution move is `b6b4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
