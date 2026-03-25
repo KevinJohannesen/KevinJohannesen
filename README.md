@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F8%2F2kp4%2F5p1p%2F1pP2P1P%2F1K6%2FP7%2F8%20b%20-%20-%201%2047&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2r3k1%2Fp1P4p%2F3Q2p1%2F5q2%2FPP6%2F2P2p2%2F5P2%2F2R3K1%20b%20-%20-%201%2031&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [B1bVG](https://lichess.org/training/B1bVG), rated `1479`.
-The game is `kingbishrkallas (2022)` vs `AlexKataev (2003)` at `10+0` time control,
-with themes `endgame, enPassant, short, zugzwang, crushing, pawnEndgame`. You can [view the full game](https://lichess.org/IPXBjZpj),
-and the first solution move is `c6c5`.
+It is `Black to move` in puzzle [nf124](https://lichess.org/training/nf124), rated `1533`.
+The game is `PrivacyFirst (2456)` vs `Zugzvang1992 (2483)` at `3+0` time control,
+with themes `endgame, master, short, crushing, fork`. You can [view the full game](https://lichess.org/6smZUGnB),
+and the first solution move is `f5g5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
