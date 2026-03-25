@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=8%2F4kp2%2F7K%2F8%2F7P%2F3R1P2%2F3p2r1%2F8%20b%20-%20-%202%2070&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2k3r1%2F1b1p4%2Fp2Bp3%2F1p6%2F3nP3%2F2NB4%2F1PP2PP1%2FR4RK1%20b%20-%20-%200%2019&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [OCs7T](https://lichess.org/training/OCs7T), rated `1476`.
-The game is `Gambit37 (2172)` vs `king_monkei (2201)` at `10+5` time control,
-with themes `endgame, crushing, rookEndgame, long`. You can [view the full game](https://lichess.org/Ise7vcdY),
-and the first solution move is `g2g6`.
+It is `Black to move` in puzzle [DX7CF](https://lichess.org/training/DX7CF), rated `1401`.
+The game is `Hardcase007 (1907)` vs `Ray33 (1781)` at `30+0` time control,
+with themes `arabianMate, middlegame, long, mateIn3, pin`. You can [view the full game](https://lichess.org/Q8bS9dEN),
+and the first solution move is `d4f3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
