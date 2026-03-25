@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=2k1r3%2F1pP2pp1%2F8%2FQ3p2p%2FP4n1P%2F1P6%2F3R1K2%2F7q%20w%20-%20-%201%2035&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=1r6%2F7R%2F2pq3p%2FQ1p1k1p1%2F2Pn2P1%2F5P1P%2FK7%2F3B4%20w%20-%20-%205%2039&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [d8P5x](https://lichess.org/training/d8P5x), rated `1533`.
-The game is `leolko (2134)` vs `Michele70 (1953)` at `3+0` time control,
-with themes `advancedPawn, short, promotion, endgame, mateIn2`. You can [view the full game](https://lichess.org/Yl05PuzN),
-and the first solution move is `d2d8`.
+It is `White to move` in puzzle [jIByv](https://lichess.org/training/jIByv), rated `1399`.
+The game is `Rakesh218 (2229)` vs `laksh_bansal (1735)` at `10+2` time control,
+with themes `endgame, crushing, skewer, long, interference`. You can [view the full game](https://lichess.org/GuGqXapr),
+and the first solution move is `a5e1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
