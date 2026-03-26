@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fpp1R1N2%2F1bp1K1B1%2F7p%2F6r1%2F8%2FPP6%2F8%20w%20-%20-%204%2039&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=2R4Q%2F5pp1%2F2q1pnk1%2F3r4%2F1p6%2F1P4Pp%2FP4P1P%2F2R3K1%20b%20-%20-%203%2035&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [ZI4JG](https://lichess.org/training/ZI4JG), rated `1415`.
-The game is `Anonymni_Jezdec (2072)` vs `yeasin84 (2058)` at `3+0` time control,
-with themes `short, operaMate, vukovicMate, fork, endgame, mateIn2`. You can [view the full game](https://lichess.org/1DHlgqyR),
-and the first solution move is `f7h6`.
+It is `Black to move` in puzzle [72vLj](https://lichess.org/training/72vLj), rated `1275`.
+The game is `potro30 (2219)` vs `Hakimkarimovih (2244)` at `10+5` time control,
+with themes `clearance, short, sacrifice, endgame, mateIn2`. You can [view the full game](https://lichess.org/UQDo5XSz),
+and the first solution move is `d5d1`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
