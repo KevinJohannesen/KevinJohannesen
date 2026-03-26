@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r6r%2F1p2pk1p%2F5ppb%2Fp1Np4%2F3P1nq1%2F2P2N2%2FPP2QP1P%2F1R1K3R%20w%20-%20-%204%2022&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r1b2rk1%2Fp2pbppp%2F2p2n2%2F4q3%2F2B1PB2%2F2N5%2FPPP3PP%2FR2Q1RK1%20b%20-%20-%201%2011&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [F0myf](https://lichess.org/training/F0myf), rated `1277`.
-The game is `Arroyave3000 (2393)` vs `Kazecort (2393)` at `10+0` time control,
-with themes `middlegame, short, advantage, discoveredAttack`. You can [view the full game](https://lichess.org/HaOunuwM),
-and the first solution move is `f3e5`.
+It is `Black to move` in puzzle [8wlFH](https://lichess.org/training/8wlFH), rated `1560`.
+The game is `Vigz (1875)` vs `Shiva27 (1847)` at `10+0` time control,
+with themes `short, advantage, fork, opening`. You can [view the full game](https://lichess.org/WId94I2p),
+and the first solution move is `e5c5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
