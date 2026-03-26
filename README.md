@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=1rq4k%2F6pp%2F2p3B1%2F4p1r1%2F5n2%2F1N2QP1P%2FP1P3PK%2FR5R1%20b%20-%20-%200%2032&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=5rk1%2Fpp1R1N2%2F1bp1K1B1%2F7p%2F6r1%2F8%2FPP6%2F8%20w%20-%20-%204%2039&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [qgu1m](https://lichess.org/training/qgu1m), rated `1435`.
-The game is `gelau (2011)` vs `neandertal2 (1922)` at `5+0` time control,
-with themes `middlegame, attraction, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/E6DysxBL),
-and the first solution move is `g5g2`.
+It is `White to move` in puzzle [ZI4JG](https://lichess.org/training/ZI4JG), rated `1415`.
+The game is `Anonymni_Jezdec (2072)` vs `yeasin84 (2058)` at `3+0` time control,
+with themes `short, operaMate, vukovicMate, fork, endgame, mateIn2`. You can [view the full game](https://lichess.org/1DHlgqyR),
+and the first solution move is `f7h6`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
