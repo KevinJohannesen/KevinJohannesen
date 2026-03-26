@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F1pq4p%2F2nr2p1%2Fp3p3%2FP2pP3%2F1P1Q2B1%2F6PP%2F5R1K%20w%20-%20-%200%2026&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r6r%2F1p2pk1p%2F5ppb%2Fp1Np4%2F3P1nq1%2F2P2N2%2FPP2QP1P%2F1R1K3R%20w%20-%20-%204%2022&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [2RdQn](https://lichess.org/training/2RdQn), rated `1446`.
-The game is `future_of_chess (2262)` vs `totoff (2273)` at `3+0` time control,
-with themes `short, crushing, endgame`. You can [view the full game](https://lichess.org/SsB7i5GO),
-and the first solution move is `d3c4`.
+It is `White to move` in puzzle [F0myf](https://lichess.org/training/F0myf), rated `1277`.
+The game is `Arroyave3000 (2393)` vs `Kazecort (2393)` at `10+0` time control,
+with themes `middlegame, short, advantage, discoveredAttack`. You can [view the full game](https://lichess.org/HaOunuwM),
+and the first solution move is `f3e5`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
