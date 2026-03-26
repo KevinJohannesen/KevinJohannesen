@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3k4%2F1p4pp%2F2p2p2%2F2n1p3%2Fp1PnP1bP%2FP1NN2P1%2F1P1K1P2%2F5B2%20b%20-%20-%204%2024&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2F5pp1%2F2p3p1%2F2Q5%2F8%2FP2q3P%2Fr4PP1%2F4R1K1%20w%20-%20-%202%2032&color=white" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [H7met](https://lichess.org/training/H7met), rated `1589`.
-The game is `dodikelias99 (2159)` vs `CamelClutcher (2293)` at `10+0` time control,
-with themes `master, short, endgame, mateIn2`. You can [view the full game](https://lichess.org/7ewp9gWM),
-and the first solution move is `c5b3`.
+It is `White to move` in puzzle [kw0BO](https://lichess.org/training/kw0BO), rated `1450`.
+The game is `Aris1207 (2045)` vs `shadowodin (1897)` at `10+0` time control,
+with themes `crushing, long, endgame`. You can [view the full game](https://lichess.org/hBxGuPZ1),
+and the first solution move is `e1e8`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
