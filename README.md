@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=r4r2%2Fp4p1k%2F5Ppp%2F2pN1B2%2F8%2F7Q%2FPqP3PP%2F7K%20w%20-%20-%200%2024&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=6k1%2Fp2r2p1%2F3PnPqp%2F3R4%2F5P1P%2F3QR1BK%2FPr6%2F8%20b%20-%20-%200%2032&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [l9ydU](https://lichess.org/training/l9ydU), rated `1280`.
-The game is `Rodrigobonvieira (1629)` vs `LeffeP (1631)` at `5+3` time control,
-with themes `veryLong, clearance, endgame, sacrifice, mateIn4`. You can [view the full game](https://lichess.org/5ZcdWJmI),
-and the first solution move is `f5g6`.
+It is `Black to move` in puzzle [tizRD](https://lichess.org/training/tizRD), rated `1577`.
+The game is `kouiz (2245)` vs `ChessTreasureMap (2328)` at `5+0` time control,
+with themes `mateIn2, middlegame, short, sacrifice`. You can [view the full game](https://lichess.org/G3mJuvXT),
+and the first solution move is `e6f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
