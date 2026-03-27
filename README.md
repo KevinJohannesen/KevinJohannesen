@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=3q1rk1%2F4b3%2F4p1pP%2F3n4%2F6Q1%2FPp4B1%2F1Pr2PP1%2F1K1R4%20w%20-%20-%200%2027&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=8%2F5Qpk%2F7p%2F3R4%2F2P3qN%2F4R1P1%2FP4n1K%2F1r6%20b%20-%20-%200%2034&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [y1Drr](https://lichess.org/training/y1Drr), rated `1405`.
-The game is `RankineFlux (1985)` vs `LUKMAN_PERBARRU (2022)` at `3+0` time control,
-with themes `mateIn2, middlegame, short`. You can [view the full game](https://lichess.org/k0LVtYeL),
-and the first solution move is `g4g6`.
+It is `Black to move` in puzzle [AQCxI](https://lichess.org/training/AQCxI), rated `1283`.
+The game is `Ahmedrashad50 (1980)` vs `DimitriZhao (2022)` at `10+0` time control,
+with themes `mateIn1, oneMove, middlegame`. You can [view the full game](https://lichess.org/rWQPUCjB),
+and the first solution move is `g4h3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
