@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=5k2%2Fpp4pp%2F4R3%2F2qQ4%2F6n1%2F2P3P1%2FP5BP%2F7K%20b%20-%20-%200%2023&color=black" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=r2q1rk1%2F1p2b1p1%2Fp1npb2p%2F4pp2%2F4P3%2F2N1QN1P%2FPPPRBPP1%2F3R2K1%20b%20-%20-%201%2015&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `Black to move` in puzzle [k9abH](https://lichess.org/training/k9abH), rated `1554`.
-The game is `medeinos (2015)` vs `psathjj (2046)` at `5+0` time control,
-with themes `endgame, discoveredCheck, long, mateIn3, doubleCheck`. You can [view the full game](https://lichess.org/MTua4jTX),
-and the first solution move is `g4f2`.
+It is `Black to move` in puzzle [T3VSg](https://lichess.org/training/T3VSg), rated `1494`.
+The game is `yatskovanatoly (1806)` vs `chuckchess (1730)` at `10+5` time control,
+with themes `middlegame, crushing, long, trappedPiece`. You can [view the full game](https://lichess.org/CgL4rPE9),
+and the first solution move is `f5f4`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
