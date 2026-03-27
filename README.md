@@ -1,10 +1,10 @@
 ♟️ Random Lichess Puzzle
 
-<img src="https://lichess1.org/export/fen.gif?fen=7k%2F4R1bp%2FB3N1p1%2F3P4%2F4p1n1%2FP7%2F1q3rPP%2F5RK1%20w%20-%20-%200%2028&color=white" alt="Lichess puzzle board" width="360" />
+<img src="https://lichess1.org/export/fen.gif?fen=3r1rk1%2F2Q3pp%2F8%2F8%2F4q3%2F2P1R3%2FPP4PP%2F4R1K1%20b%20-%20-%200%2026&color=black" alt="Lichess puzzle board" width="360" />
 
-It is `White to move` in puzzle [dEv7J](https://lichess.org/training/dEv7J), rated `1480`.
-The game is `Sebastian_WS (1948)` vs `TheRiddleOfLife (1929)` at `10+5` time control,
-with themes `middlegame, xRayAttack, long, mateIn3`. You can [view the full game](https://lichess.org/8CM2BZG9),
-and the first solution move is `e7e8`.
+It is `Black to move` in puzzle [UZhKV](https://lichess.org/training/UZhKV), rated `1394`.
+The game is `ahmed_khnight (1660)` vs `vedant2810 (1741)` at `10+0` time control,
+with themes `endgame, long, mateIn3, sacrifice`. You can [view the full game](https://lichess.org/N0BmrfbH),
+and the first solution move is `e4e3`.
 
 Puzzle requested from [Lichess API](https://lichess.org/api#tag/Puzzles/operation/apiPuzzleNext)
